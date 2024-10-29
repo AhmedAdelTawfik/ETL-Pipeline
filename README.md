@@ -5,7 +5,7 @@ Creating a pipeline that preform an ETL process on json files
 - [Setup & Requirements](#-setup--requirements)
 - [Usage](#-usage)
 - [Features](#-features)
-- [Link to Project Colab Link](#-link-to-project-colab-link)
+- [Link to Project on Google Colab](#-link-to-project-on-google-colab)
 
 ## ✨ System Architecture
 ![System Architecture](System_Architecture/ETL-Pipeline.png)
@@ -35,5 +35,5 @@ Creating a pipeline that reads json files containing low quality data and then c
 - **Data Transformation**: the script changes the new cleaned files to csv format instead of json format.
 - **Data Loading**: the script saves the new csv files to the drive.
 
-## 🔗 Link to Project Colab Link
+## 🔗 Link to Project on Google Colab
 https://colab.research.google.com/drive/1STtErZ1dwAxAdZW6KYt8rbnXGk5gTFh2?usp=sharing
