@@ -8,7 +8,7 @@ Creating a pipeline that preform an ETL process on json files
 - [Link to Project Colab Link](#-link-to-project-colab-link)
 
 ## ✨ System Architecture
-![System Architecture](System_Architecture/ETL_pipeline.png)
+![System Architecture](System_Architecture/ETL-Pipeline.png)
 
 ## 🛠 Setup & Requirements
 1. **Google Account**: Ensure you have an Google account to sign in Google Colab Enviroment.
